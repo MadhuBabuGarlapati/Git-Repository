@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PhysicalProperty>
+  <Property>
+    <Identification type="house for rent" rentalType="unspecified">
+      <PrimaryID>1706th3</PrimaryID>
+      <General_ID>
+        <ID>http://www.horizonproperties.com/home.php?ad=1706th3</ID>
+        <Description />
+      </General_ID>
+      <MarketingName>Remodeled Albericci 2BR BA refr 800sqft</MarketingName>
+      <OwnerLegalName>Horizon Properties</OwnerLegalName>
+      <Address>
+        <Address1>170 6th St #3</Address1>
+        <City>West Sacramento</City>
+        <State>CA</State>
+        <Zip>95605</Zip>
+        <Country>USA</Country>
+        <PO_Box />
+        <MailingAddress>7844 Madison Ave #152 Fair Oaks CA 95628</MailingAddress>
+        <ShippingAddress />
+      </Address>
+      <Latitude>38.58315</Latitude>
+      <Longitude>-121.51676</Longitude>
+      <WebSite>http://www.horizonproperties.com/rentals.php</WebSite>
+      <Phone>
+        <Number>(916) 961-7368</Number>
+      </Phone>
+      <Email>homes@horizonproperties.com</Email>
+    </Identification>
+    <Information>
+      <StructureType>standard</StructureType>
+      <UnitCount>1</UnitCount>
+      <YearBuilt>1928</YearBuilt>
+      <StartRent>700</StartRent>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>04:30 PM</CloseTime>
+        <Day>M</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>04:30 PM</CloseTime>
+        <Day>T</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>04:30 PM</CloseTime>
+        <Day>W</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>04:30 PM</CloseTime>
+        <Day>Th</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>04:30 PM</CloseTime>
+        <Day>F</Day>
+      </OfficeHour>
+      <ShortDescription>Remodeled Albericci 2BR BA refr 800sqft</ShortDescription>
+      <LongDescription>On 6th near B Street in West Sacramento, this remodeled second floor triplex offers two bedrooms, one full bathroom, Pergo flooring, custom paint and wainscotting throughout 800 square feet of living space.</LongDescription>
+      <DrivingDirections />
+      <LeaseLength>Lease term: </LeaseLength>
+      <Parking type="garage lot">
+        <Assigned />
+        <Spaces>0</Spaces>
+        <Comment />
+      </Parking>
+      <Parking type="surface lot">
+        <Assigned>0</Assigned>
+        <Spaces>0</Spaces>
+      </Parking>
+    </Information>
+    <Policy>
+      <Pet type="Cat" allowed="true" />
+      <Pet type="Dog" allowed="true" />
+    </Policy>
+    <Floorplan id="1706th3">
+      <Name>170 6th St #3</Name>
+      <UnitCount>1</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="650" max="850" />
+      <MarketRent min="750" max="750" />
+      <EffectiveRent min="700" max="700" />
+      <Deposit type="Security Deposit">
+        <Amount>800</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable>100</PercentRefundable>
+        <PortionRefundable>100</PortionRefundable>
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType>Owed</LateType>
+        <LatePercent>5</LatePercent>
+        <LateMinFee>0</LateMinFee>
+        <LateFeePerDay>0</LateFeePerDay>
+        <NonRefundableHoldFee>0</NonRefundableHoldFee>
+        <AdminFee>0</AdminFee>
+        <ApplicationFee>32.00</ApplicationFee>
+      </Fee>
+    </Floorplan>
+    <Amenities>
+      <Community />
+      <Floorplan>
+        <CeilingFan>1</CeilingFan>
+        <PrivateBalcony>0</PrivateBalcony>
+        <Refrigerator>1</Refrigerator>
+        <WindowCoverings>1</WindowCoverings>
+      </Floorplan>
+    </Amenities>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>0</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th301.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>01</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>1</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th302.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>02</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>2</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th303.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>03</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>3</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th304.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>04</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>4</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th305.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>05</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>5</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th306.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>06</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>6</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th307.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>07</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>7</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th308.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>08</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>8</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th309.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>09</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>9</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th310.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>10</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>10</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th311.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>11</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>11</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th312.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>12</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>12</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th313.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>13</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>13</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th314.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>14</Rank>
+    </File>
+    <File id="1706th3" active="true">
+      <Type>photo</Type>
+      <Name>14</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://horizonproperties.com/photo/1706th315.jpg</Src>
+      <Width>640</Width>
+      <Height>480</Height>
+      <Rank>15</Rank>
+    </File>
+    <Promotional>1706th3</Promotional>
+  </Property>
+</PhysicalProperty>

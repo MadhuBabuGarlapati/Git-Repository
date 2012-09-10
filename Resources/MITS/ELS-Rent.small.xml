@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--12/8/2011 4:35:25 PM-->
+<PhysicalProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:MITS="http://www.mitsproject.org/namespace">
+  <Property managementID="22000020">
+    <Identification Type="apartment" RentalType="">
+      <PrimaryID>22000020</PrimaryID>
+      <MarketingName>Santa Monica</MarketingName>
+      <Address>
+        <Address1>2500 Olympic</Address1>
+        <City>Santa Monica</City>
+        <State>CA</State>
+        <Zip>90404</Zip>
+      </Address>
+      <Phone>
+        <Number>(310) 844-8952</Number>
+      </Phone>
+      <Email>remiguel@rent.com</Email>
+    </Identification>
+    <Information>
+      <YearBuilt>2007</YearBuilt>
+      <ShortDescription>A great office complex!</ShortDescription>
+      <LongDescription>There are great amenities, Including 4 office complexes, and a gym</LongDescription>
+    </Information>
+    <Floorplan id="22000020">
+      <Room type="bathroom">
+        <Count>2</Count>
+      </Room>
+      <Room type="bedroom">
+        <Count>3</Count>
+      </Room>
+      <SquareFeet min="1200" max="1300" />
+      <MarketRent min="775.0000" max="775.0000" />
+    </Floorplan>
+    <Amenities>
+</Amenities>
+    <File id="1" active="true">
+      <Type>photo</Type>
+      <Src>http://listings.equitylifestyle.com/ELS.jpg</Src>
+      <Caption />
+      <Rank>1</Rank>
+    </File>
+  </Property>
+</PhysicalProperty>

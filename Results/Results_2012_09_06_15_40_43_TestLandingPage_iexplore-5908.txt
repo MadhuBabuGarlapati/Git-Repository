@@ -1,0 +1,20 @@
+t/TestLandingPage.t .. 
+not ok 1 - startup died (Error requesting http://localhost:5555/selenium-server/driver/:
+# 500 read timeout)
+
+#   Failed test 'startup died (Error requesting http://localhost:5555/selenium-server/driver/:
+# 500 read timeout)'
+#   at t/TestLandingPage.t line 13.
+#   (in Test::Class::Selenium::TestCases::Popular::TestLandingPage->startup)
+1..1
+# Looks like you failed 1 test of 1.
+Dubious, test returned 1 (wstat 256, 0x100)
+Failed 1/1 subtests 
+
+Test Summary Report
+-------------------
+t/TestLandingPage.t (Wstat: 256 Tests: 1 Failed: 1)
+  Failed test:  1
+  Non-zero exit status: 1
+Files=1, Tests=1, 200 wallclock secs ( 0.06 usr +  0.02 sys =  0.08 CPU)
+Result: FAIL

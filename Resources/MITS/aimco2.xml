@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysicalProperty xmlns:web="http://aimco.com/webservices/">
+<Property>
+    <Identification type="apartment" rentalType="unspecified">
+      <PrimaryID>000517</PrimaryID>
+      <SecondaryID>000517</SecondaryID>
+      <General_ID>
+        <ID>http://www.huntersglenapthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1617</ID>
+        <Description />
+      </General_ID>
+      <MarketingName>Hunters Glen Apartments</MarketingName>
+      <OwnerLegalName>OP Property Management, LLC</OwnerLegalName>
+      <Address>
+        <Address1>1109 Hunters Glen Drive</Address1>
+        <City>Plainsboro</City>
+        <State>NJ</State>
+        <Zip>08536</Zip>
+        <Country>USA</Country>
+        <PO_Box />
+        <MailingAddress />
+        <ShippingAddress />
+      </Address>
+      <MSA_Name>35620-New York-Northern</MSA_Name>
+      <Latitude>40.32922</Latitude>
+      <Longitude>-74.57133</Longitude>
+      <WebSite>http://www.huntersglenapthomes.com</WebSite>
+      <Phone>
+        <Number />
+      </Phone>
+      <Email>000517@aimco.com</Email>
+    </Identification>
+    <Information>
+      <StructureType>unspecified</StructureType>
+      <UnitCount>264</UnitCount>
+      <YearBuilt>1976</YearBuilt>
+      <StartRent>779.00</StartRent>
+      <OfficeHour>
+        <OpenTime>12:00 PM</OpenTime>
+        <CloseTime>05:00 PM</CloseTime>
+        <Day>Su</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>M</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>07:00 PM</CloseTime>
+        <Day>T</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>W</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>07:00 PM</CloseTime>
+        <Day>Th</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>F</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>05:00 PM</CloseTime>
+        <Day>Sa</Day>
+      </OfficeHour>
+      <ShortDescription>Pet-friendly apartments in Plainsboro, NJ.</ShortDescription>
+      <LongDescription>Live at Hunter's Glen in Plainsboro, New Jersey, and enjoy a park-like community situated between The Meadows at Middlesex Golf Course and Plainsboro Park. Our pet-friendly apartments feature a private patio or balcony, central A/C and heat, walk-in closets, a well-designed kitchen with electric appliances and a separate dining area. Many homes offer a stackable washer and dryer. Our community offers two pools and tennis and volleyball courts. The park next door offers jogging trails, softball fields and a tot lot. Our location in Plainsboro is right between New York City and Philadelphia, and just steps from the quaint town of Princeton and public transportation. Call or visit our website to learn more and schedule your personal tour.</LongDescription>
+      <DrivingDirections>Hunters Glen Apartments in Plainsboro From Route 1 - Exit onto Scudders Mill Road (CR-614). Continue approximately 3.1 miles and turn left on Hunters Glen Drive. The community is 0.2 miles down the road on the left.</DrivingDirections>
+      <LeaseLength>Lease terms can be customized between 7-15 months based on your specific needs.</LeaseLength>
+      <Parking type="surface lot">
+        <Assigned>0</Assigned>
+        <SpaceFee>0.00</SpaceFee>
+        <Spaces>2</Spaces>
+        <Comment>Surface parking, not reserved</Comment>
+      </Parking>
+    </Information>
+    <Policy>
+      <Pet type="Cat" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Fee>300.00</Fee>
+        <Rent>40.00</Rent>
+        <Restrictions>Pet fee is per apartment and monthly pet rent is per pet.</Restrictions>
+      </Pet>
+      <Pet type="Dog" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Fee>300.00</Fee>
+        <Rent>40.00</Rent>
+        <Restrictions>Maximum of 2 pets per home. Pet fee is per apartment and monthly pet rent is per pet. Our pet-friendly apartments welcome most breeds of dogs. However, because certain dogs do not thrive in a community environment, we cannot accommodate the following breeds or mixes: Akita, American Staffordshire Terrier, Bull Terrier, Chow, Doberman, German Shepherd, Husky, Pit Bull, Presa Canario, Rottweiler and Wolf Hybrid.</Restrictions>
+      </Pet>
+    </Policy>
+    <Floorplan id="1+INA+42">
+      <Name>Arabian</Name>
+      <UnitCount>224</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="675" max="675" />
+      <MarketRent min="806" max="1107" />
+      <EffectiveRent min="806" max="1107" />
+      <Deposit type="Security Deposit">
+        <Amount>250</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>60.00</AdminFee>
+        <ApplicationFee>50.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.huntersglenapthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1617&amp;t=1</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="1+INA+54">
+      <Name>Clysdale</Name>
+      <UnitCount>32</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="920" max="920" />
+      <MarketRent min="1286" max="1574" />
+      <EffectiveRent min="1286" max="1574" />
+      <Deposit type="Security Deposit">
+        <Amount>250</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>60.00</AdminFee>
+        <ApplicationFee>50.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.huntersglenapthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1617&amp;t=2</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="1+INA+43">
+      <Name>Paso Fino</Name>
+      <UnitCount>48</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="835" max="835" />
+      <MarketRent min="1146" max="1369" />
+      <EffectiveRent min="1146" max="1369" />
+      <Deposit type="Security Deposit">
+        <Amount>250</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>60.00</AdminFee>
+        <ApplicationFee>50.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.huntersglenapthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1617&amp;t=2</General>
+      </Amenities>
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <BasketballCourt>1</BasketballCourt>
+        <BusinessCenter>0</BusinessCenter>
+        <ClubHouse>0</ClubHouse>
+        <Concierge>0</Concierge>
+        <CoverPark>0</CoverPark>
+        <FitnessCenter>0</FitnessCenter>
+        <Elevator>0</Elevator>
+        <Garage>0</Garage>
+        <Gate>0</Gate>
+        <HighSpeed>0</HighSpeed>
+        <Housekeeping>0</Housekeeping>
+        <Laundry>1</Laundry>
+        <Pool>1</Pool>
+        <PlayGround>0</PlayGround>
+        <Racquetball>0</Racquetball>
+        <Sauna>0</Sauna>
+        <ShortTermLease>0</ShortTermLease>
+        <Spa>0</Spa>
+        <StorageSpace>0</StorageSpace>
+        <TennisCourt>1</TennisCourt>
+        <Transportation>1</Transportation>
+        <VolleyballCourt>0</VolleyballCourt>
+      </Community>
+      <Floorplan>
+        <AdditionalStorage>0</AdditionalStorage>
+        <AirConditioner>1</AirConditioner>
+        <Alarm>0</Alarm>
+        <Balcony>0</Balcony>
+        <CableSat>0</CableSat>
+        <Carport>0</Carport>
+        <CeilingFan>0</CeilingFan>
+        <ControlledAccess>0</ControlledAccess>
+        <Courtyard>1</Courtyard>
+        <DishWasher>1</DishWasher>
+        <Disposal>1</Disposal>
+        <Dryer>1</Dryer>
+        <Fireplace>0</Fireplace>
+        <Furnished>0</Furnished>
+        <Garage>0</Garage>
+        <Handrails>0</Handrails>
+        <IndividualClimateControl>1</IndividualClimateControl>
+        <LargeClosets>0</LargeClosets>
+        <Microwave>0</Microwave>
+        <Patio>1</Patio>
+        <PrivateBalcony>1</PrivateBalcony>
+        <PrivatePatio>0</PrivatePatio>
+        <Refrigerator>1</Refrigerator>
+        <Skylight>0</Skylight>
+        <View>0</View>
+        <Washer>1</Washer>
+        <WheelChair>0</WheelChair>
+        <WD_Hookup>0</WD_Hookup>
+        <WindowCoverings>0</WindowCoverings>
+      </Floorplan>
+      <General>
+        <AmenityName>Pet Friendly</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Playground</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Pets - Cats Allowed</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Pets - Dogs Allowed</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Shared Laundry Room</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Upgraded Kitchen and Bath</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Upgraded Kitchen</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>GE Appliances</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Cable TV Ready</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>High Speed Internet Access</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Verizon FIOS Internet Access</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Upgraded Kitchen Appliances</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Ceramic Tile Floors</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Ceramic Tile Foyer</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Close to Parking</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+    </Amenities>
+    <File id="1+INA+42" active="true">
+      <Type>floorplan</Type>
+      <Name>Arabian</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Arabian_Floor_Plan_421872.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="1+INA+54" active="true">
+      <Type>floorplan</Type>
+      <Name>Clysdale</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Clysdale_Floor_Plan_421904.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="1+INA+43" active="true">
+      <Type>floorplan</Type>
+      <Name>Paso Fino</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Paso_Fino_Floor_Plan_421896.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="448070" active="true">
+      <Type>photo</Type>
+      <Name>Every floor plan offers a private balcony or patio</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448070_448070.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>1</Rank>
+    </File>
+    <File id="448071" active="true">
+      <Type>photo</Type>
+      <Name>Invite friends over for a game of sand volleyball</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448071_448071.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>4</Rank>
+    </File>
+    <File id="448072" active="true">
+      <Type>photo</Type>
+      <Name>Master suite features great walk-in closet </Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448072_448072.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>3</Rank>
+    </File>
+    <File id="448073" active="true">
+      <Type>photo</Type>
+      <Name>All GE appliances and ceramic tile flooring</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448073_448073.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>5</Rank>
+    </File>
+    <File id="448074" active="true">
+      <Type>photo</Type>
+      <Name>Spacious living room opens out to balcony or patio</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448074_448074.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>6</Rank>
+    </File>
+    <File id="448075" active="true">
+      <Type>photo</Type>
+      <Name>Separate dining area adjacent to kitchen</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448075_448075.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>7</Rank>
+    </File>
+    <File id="448076" active="true">
+      <Type>photo</Type>
+      <Name>Linen closet alongside bathroom</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448076_448076.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>8</Rank>
+    </File>
+    <File id="448077" active="true">
+      <Type>photo</Type>
+      <Name>On-site children's playground</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448077_448077.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>9</Rank>
+    </File>
+    <File id="448078" active="true">
+      <Type>photo</Type>
+      <Name>Baseball field and basketball court for outdoor recreation</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448078_448078.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>10</Rank>
+    </File>
+    <File id="448080" active="true">
+      <Type>photo</Type>
+      <Name>Beautiful grounds include grassy parks and many walking trails</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448080_448080.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>11</Rank>
+    </File>
+    <File id="448081" active="true">
+      <Type>photo</Type>
+      <Name>Pet-friendly apartments, dogs and cats allowed</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448081_448081.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>12</Rank>
+    </File>
+    <File id="448082" active="true">
+      <Type>photo</Type>
+      <Name>Lush landscaping, professionally maintained</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448082_448082.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>13</Rank>
+    </File>
+    <File id="448083" active="true">
+      <Type>photo</Type>
+      <Name>Convenience of nearby shopping and dining</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448083_448083.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>14</Rank>
+    </File>
+    <File id="448084" active="true">
+      <Type>photo</Type>
+      <Name>Play a round at Meadows Golf Club</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448084_448084.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>15</Rank>
+    </File>
+    <File id="448085" active="true">
+      <Type>photo</Type>
+      <Name>Visit our community at 1109 Hunters Glen Drive</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448085_448085.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>16</Rank>
+    </File>
+    <File id="458504" active="true">
+      <Type>photo</Type>
+      <Name>One of two available swimming pools </Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_458504_458504.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>2</Rank>
+    </File>
+    <Promotional>Start off the new year FREE when you move in by January 1st.</Promotional>
+  </Property>
+</PhysicalProperty>

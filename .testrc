@@ -1,0 +1,49 @@
+#################
+# Starting URLs #
+#################
+test_url=http://www.rent.com
+test_ssl_url=https://www.rent.com
+
+screenshot = E:\\Selenium_Scripts\\Rent_POC_Latest\\ScreenShots\\
+
+#################
+# TestData      #
+#################
+cpa_username = tj.scoggins@alexanderforrest.com 
+cpa_password = zhfzpb
+plt_username = remiguel_plt_101@rent.com
+plt_password = qatest11
+ppl_username =
+ppl_password =
+renter_username = remiguel_renter_005@rent.com
+renter_password     = qatest11
+firstname    = Test
+lastname     = User
+cs_username  = automated_insider@rent.com 
+cs_password  = qatest11
+photo        = C:\\Documents and Settings\\All Users\\Documents\\My Pictures\\Sample Pictures\\Blue hills.jpg
+propname     = Portofino
+
+#################
+# MITS TestData #
+#################
+
+#path to xml director
+xml_path = C:\\Documents and Settings\\hkonakanchi\\Desktop\\Rent\\Resources\\MITS
+
+#################
+# Database      #
+#################
+database     = VQA
+db_username  = VIVA
+db_password  = vq5pdhwo
+
+#################
+# selenium      #
+#################
+host    = localhost
+port    = 5555
+set_speed = 0
+set_timeout = 180000
+testSuite = TestLandingPage:test_160
+browser = firefox

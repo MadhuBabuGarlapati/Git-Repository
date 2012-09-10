@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--12/8/2011 4:35:25 PM-->
+<PhysicalProperty xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:MITS="http://www.mitsproject.org/namespace">
+  <Property managementID="22000020">
+    <Identification Type="apartment" RentalType="">
+      <PrimaryID>22000020</PrimaryID>
+      <MarketingName>Chesterfield</MarketingName>
+      <Address>
+        <Address1>49544 AU LAC DRIVE EAST</Address1>
+        <City>Chesterfield</City>
+        <State>MI</State>
+        <Zip>48051</Zip>
+      </Address>
+      <Phone>
+        <Number>(310) 643-6303</Number>
+      </Phone>
+      <Email>information@equitylifestyle.com</Email>
+    </Identification>
+    <Information>
+      <YearBuilt>1999</YearBuilt>
+      <ShortDescription>live near the lake for less</ShortDescription>
+      <LongDescription>You can't live near the lake for less!  This home is spread out over 1216 sq/ft!  3 bedrooms 2 full bathrooms!  Huge snack bar!  Great laminate floors!  Spend your summers swimming, fishing, and playing beach volleyball!  A great place to raise your family!  Check it out today!</LongDescription>
+    </Information>
+    <Floorplan id="22000020">
+      <Room type="bathroom">
+        <Count>2</Count>
+      </Room>
+      <Room type="bedroom">
+        <Count>3</Count>
+      </Room>
+      <SquareFeet min="1216" max="3000" />
+      <MarketRent min="775.0000" max="775.0000" />
+    </Floorplan>
+    <Amenities>
+</Amenities>
+    <File id="1" active="true">
+      <Type>photo</Type>
+      <Src>http://listings.equitylifestyle.com/ELS.jpg</Src>
+      <Caption />
+      <Rank>1</Rank>
+    </File>
+  </Property>
+</PhysicalProperty>

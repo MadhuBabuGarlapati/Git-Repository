@@ -1,0 +1,5 @@
+This sample text file for Git
+
+Now I am modifying this sample Text file
+
+First Updation on 24/8/2012

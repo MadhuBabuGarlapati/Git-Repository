@@ -1,0 +1,15 @@
+t/TestLandingPage.t .. 
+# 
+# Test::Class::Selenium::TestCases::Popular::TestLandingPage->test_161
+ok 1 - mouse_down, //div[@id='top_nav_mainLink_wrapper']/div[2]/a
+ok 2 - click, //div[@id='top_nav_mainLink_wrapper']/div[2]/a
+ok 3 - type, freeform_submarket_nm, New York
+ok 4 - select, state_nb, label=NY
+ok 5 - mouse_down, fsubmit
+ok 6 - click, fsubmit
+ok 7 - Verify User is shown message to fill email address
+1..7
+ok
+All tests successful.
+Files=1, Tests=7, 34 wallclock secs ( 0.09 usr +  0.02 sys =  0.11 CPU)
+Result: PASS

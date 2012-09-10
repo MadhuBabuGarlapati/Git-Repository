@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhysicalProperty xmlns:web="http://aimco.com/webservices/">
+ <Property>
+    <Identification type="apartment" rentalType="unspecified">
+      <PrimaryID>000517</PrimaryID>
+      <SecondaryID>000517</SecondaryID>
+      <General_ID>
+        <ID>http://www.steeplechaseapartmenthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1849</ID>
+        <Description />
+      </General_ID>
+      <MarketingName>Steeplechase Apartments new something</MarketingName>
+      <OwnerLegalName>OP Property Management, LP</OwnerLegalName>
+      <Address>
+        <Address1>7301 Alma Drive</Address1>
+        <City>Plano</City>
+        <State>TX</State>
+        <Zip>75025</Zip>
+        <Country>USA</Country>
+        <PO_Box />
+        <MailingAddress />
+        <ShippingAddress />
+      </Address>
+      <MSA_Name>19100-Dallas-Fort Worth</MSA_Name>
+      <Latitude>33.076892</Latitude>
+      <Longitude>-96.711066</Longitude>
+      <WebSite>http://www.steeplechaseapartmenthomes.com</WebSite>
+      <Phone>
+        <Number />
+      </Phone>
+      <Email>028338@aimco.com</Email>
+    </Identification>
+    <Information>
+      <StructureType>unspecified</StructureType>
+      <UnitCount>368</UnitCount>
+      <YearBuilt>1985</YearBuilt>
+      <StartRent>639.00</StartRent>
+      <OfficeHour>
+        <OpenTime>01:00 PM</OpenTime>
+        <CloseTime>05:00 PM</CloseTime>
+        <Day>Su</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>M</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>T</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>W</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>Th</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>F</Day>
+      </OfficeHour>
+      <OfficeHour>
+        <OpenTime>09:00 AM</OpenTime>
+        <CloseTime>06:00 PM</CloseTime>
+        <Day>Sa</Day>
+      </OfficeHour>
+      <ShortDescription>Remodeled apartments in Plano, TX with new appliances and washer and dryer hookups.</ShortDescription>
+      <LongDescription>Steeplechase Apartments in Plano, TX are 30 minutes from downtown Dallas and close to I-75 and I-635.  Renovated apartments have new appliances, cabinets, countertops, sinks, Berber carpet and washer/dryer hookups.  Select homes have wood-style flooring and private patios/balconies.  Pet friendly community has fitness center, two swimming pools, business center, covered playground, fishing pond, additional storage and available garages or carports.  Located less than 5 minutes from Chase Oaks Golf Club, about 30 miles from the Dallas/Fort Worth Airport and 20 minutes from McKinney.  Call or visit our website to schedule a personal tour!</LongDescription>
+      <DrivingDirections>Steeplechase Apartments are located at 7301 Alma Drive, Plano, TX 75025 From I-75 south, take exit 33 toward Bethany Drive. Turn right on West Bethany Drive, continue for 1.3 miles and turn left on South Alma Drive. We're located 1.5 miles up the road on the right.From I-75 north, take exit 32 toward Legacy Drive. Turn left on Legacy Drive and continue for 1.2 miles. Turn right on Alma Drive and continue for about 1/2 mile.  Turn left into our community.</DrivingDirections>
+      <LeaseLength>Lease terms can be customized between 7-15 months based on your specific needs.</LeaseLength>
+      <Parking type="garage lot">
+        <Assigned>1</Assigned>
+        <SpaceFee>100.00</SpaceFee>
+        <Spaces>1</Spaces>
+        <Comment>Garages are assigned with monthly rent and great for extra storage.</Comment>
+      </Parking>
+      <Parking type="none">
+        <Assigned>0</Assigned>
+        <SpaceFee>0.00</SpaceFee>
+        <Spaces>0</Spaces>
+        <Comment>Open lot parking. First come first serve.</Comment>
+      </Parking>
+    </Information>
+    <Policy>
+      <Pet type="Cat" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Fee>400.00</Fee>
+        <Rent>10.00</Rent>
+      </Pet>
+      <Pet type="Dog" allowed="true">
+        <Comment />
+        <MaxCount>2</MaxCount>
+        <Fee>400.00</Fee>
+        <Rent>10.00</Rent>
+        <Restrictions>Maximum of 2 pets per home with a one-time non-refundable fee per pet. Our pet-friendly apartments welcome most breeds of dogs. However, because certain dogs do not thrive in a community environment, we cannot accommodate the following breeds or mixes: Akita, American Staffordshire Terrier, Bull Terrier, Chow, Doberman, German Shepherd, Husky, Pit Bull, Presa Canario, Rottweiler and Wolf Hybrid</Restrictions>
+      </Pet>
+    </Policy>
+    <Floorplan id="1A10">
+      <Name>Bonzai</Name>
+      <UnitCount>120</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="685" max="685" />
+      <MarketRent min="639" max="769" />
+      <EffectiveRent min="639" max="769" />
+      <Deposit type="Security Deposit">
+        <Amount>99</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>20.00</AdminFee>
+        <ApplicationFee>55.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.steeplechaseapartmenthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1849&amp;t=1</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="2D20">
+      <Name>Sequoia</Name>
+      <UnitCount>64</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="1048" max="1048" />
+      <MarketRent min="882" max="1063" />
+      <EffectiveRent min="882" max="1063" />
+      <Deposit type="Security Deposit">
+        <Amount>99</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>20.00</AdminFee>
+        <ApplicationFee>55.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.steeplechaseapartmenthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1849&amp;t=2</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="2C20">
+      <Name>Ashwood</Name>
+      <UnitCount>120</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="934" max="934" />
+      <MarketRent min="782" max="973" />
+      <EffectiveRent min="782" max="973" />
+      <Deposit type="Security Deposit">
+        <Amount>99</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>20.00</AdminFee>
+        <ApplicationFee>55.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.steeplechaseapartmenthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1849&amp;t=2</General>
+      </Amenities>
+    </Floorplan>
+    <Floorplan id="2A10">
+      <Name>Aspen</Name>
+      <UnitCount>64</UnitCount>
+      <UnitsAvailable>1</UnitsAvailable>
+      <Room type="bathroom">
+        <Count>1</Count>
+        <Comment />
+      </Room>
+      <Room type="bedroom">
+        <Count>2</Count>
+        <Comment />
+      </Room>
+      <SquareFeet min="844" max="844" />
+      <MarketRent min="754" max="924" />
+      <EffectiveRent min="754" max="924" />
+      <Deposit type="Security Deposit">
+        <Amount>99</Amount>
+        <Description>Security Deposit</Description>
+        <PercentRefundable />
+        <PortionRefundable />
+      </Deposit>
+      <Fee>
+        <ProrateType>standard</ProrateType>
+        <LateType />
+        <LatePercent />
+        <LateMinFee />
+        <LateFeePerDay />
+        <NonRefundableHoldFee />
+        <AdminFee>20.00</AdminFee>
+        <ApplicationFee>55.00</ApplicationFee>
+      </Fee>
+      <Amenities>
+        <General>http://www.steeplechaseapartmenthomes.com/apartments/floorplan.do?lid=en_US&amp;pid=1849&amp;t=2</General>
+      </Amenities>
+    </Floorplan>
+    <Amenities>
+      <Community>
+        <BasketballCourt>0</BasketballCourt>
+        <BusinessCenter>0</BusinessCenter>
+        <ClubHouse>1</ClubHouse>
+        <Concierge>0</Concierge>
+        <CoverPark>1</CoverPark>
+        <FitnessCenter>1</FitnessCenter>
+        <Elevator>0</Elevator>
+        <Garage>1</Garage>
+        <Gate>0</Gate>
+        <HighSpeed>0</HighSpeed>
+        <Housekeeping>0</Housekeeping>
+        <Laundry>1</Laundry>
+        <Pool>1</Pool>
+        <PlayGround>0</PlayGround>
+        <Racquetball>0</Racquetball>
+        <Sauna>1</Sauna>
+        <ShortTermLease>0</ShortTermLease>
+        <Spa>0</Spa>
+        <StorageSpace>1</StorageSpace>
+        <TennisCourt>0</TennisCourt>
+        <Transportation>0</Transportation>
+        <VolleyballCourt>0</VolleyballCourt>
+      </Community>
+      <Floorplan>
+        <AdditionalStorage>0</AdditionalStorage>
+        <AirConditioner>1</AirConditioner>
+        <Alarm>0</Alarm>
+        <Balcony>0</Balcony>
+        <CableSat>0</CableSat>
+        <Carport>0</Carport>
+        <CeilingFan>0</CeilingFan>
+        <ControlledAccess>0</ControlledAccess>
+        <Courtyard>1</Courtyard>
+        <DishWasher>1</DishWasher>
+        <Disposal>1</Disposal>
+        <Dryer>1</Dryer>
+        <Fireplace>1</Fireplace>
+        <Furnished>0</Furnished>
+        <Garage>0</Garage>
+        <Handrails>0</Handrails>
+        <IndividualClimateControl>1</IndividualClimateControl>
+        <LargeClosets>0</LargeClosets>
+        <Microwave>1</Microwave>
+        <Patio>0</Patio>
+        <PrivateBalcony>0</PrivateBalcony>
+        <PrivatePatio>0</PrivatePatio>
+        <Refrigerator>1</Refrigerator>
+        <Skylight>0</Skylight>
+        <View>1</View>
+        <Washer>1</Washer>
+        <WheelChair>0</WheelChair>
+        <WD_Hookup>0</WD_Hookup>
+        <WindowCoverings>0</WindowCoverings>
+      </Floorplan>
+      <General>
+        <AmenityName>Pet Friendly</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Playground</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Barbecue Area</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Broadband Internet Access</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Free Coffee</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Housing Vouchers Welcome</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Pets - Cats Allowed</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Pets - Dogs Allowed</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Community Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Wood Floors</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>High Speed Internet Access</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Verizon FIOS Internet Access</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Satellite TV Ready</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Upgraded Kitchen</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>High Ceilings</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Cable TV Ready</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Upgraded Kitchen and Bath</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+      <General>
+        <AmenityName>Bay Window</AmenityName>
+        <AmenityCharge />
+        <AmenityRank />
+        <AdditionalAmenity>Floorplan Amenity</AdditionalAmenity>
+      </General>
+    </Amenities>
+    <File id="1+INA+42" active="true">
+      <Type>floorplan</Type>
+      <Name>Arabian</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Arabian_Floor_Plan_421872.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="1+INA+54" active="true">
+      <Type>floorplan</Type>
+      <Name>Clysdale</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Clysdale_Floor_Plan_421904.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="1+INA+43" active="true">
+      <Type>floorplan</Type>
+      <Name>Paso Fino</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_Paso_Fino_Floor_Plan_421896.jpg</Src>
+      <Width>500</Width>
+      <Height>500</Height>
+      <Rank>99</Rank>
+    </File>
+    <File id="448070" active="true">
+      <Type>photo</Type>
+      <Name>Every floor plan offers a private balcony or patio</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448070_448070.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>1</Rank>
+    </File>
+    <File id="448071" active="true">
+      <Type>photo</Type>
+      <Name>Invite friends over for a game of sand volleyball</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448071_448071.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>4</Rank>
+    </File>
+    <File id="448072" active="true">
+      <Type>photo</Type>
+      <Name>Master suite features great walk-in closet </Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448072_448072.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>3</Rank>
+    </File>
+    <File id="448073" active="true">
+      <Type>photo</Type>
+      <Name>All GE appliances and ceramic tile flooring</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448073_448073.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>5</Rank>
+    </File>
+    <File id="448074" active="true">
+      <Type>photo</Type>
+      <Name>Spacious living room opens out to balcony or patio</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448074_448074.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>6</Rank>
+    </File>
+    <File id="448075" active="true">
+      <Type>photo</Type>
+      <Name>Separate dining area adjacent to kitchen</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448075_448075.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>7</Rank>
+    </File>
+    <File id="448076" active="true">
+      <Type>photo</Type>
+      <Name>Linen closet alongside bathroom</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448076_448076.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>8</Rank>
+    </File>
+    <File id="448077" active="true">
+      <Type>photo</Type>
+      <Name>On-site children's playground</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448077_448077.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>9</Rank>
+    </File>
+    <File id="448078" active="true">
+      <Type>photo</Type>
+      <Name>Baseball field and basketball court for outdoor recreation</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448078_448078.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>10</Rank>
+    </File>
+    <File id="448080" active="true">
+      <Type>photo</Type>
+      <Name>Beautiful grounds include grassy parks and many walking trails</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448080_448080.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>11</Rank>
+    </File>
+    <File id="448081" active="true">
+      <Type>photo</Type>
+      <Name>Pet-friendly apartments, dogs and cats allowed</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448081_448081.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>12</Rank>
+    </File>
+    <File id="448082" active="true">
+      <Type>photo</Type>
+      <Name>Lush landscaping, professionally maintained</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448082_448082.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>13</Rank>
+    </File>
+    <File id="448083" active="true">
+      <Type>photo</Type>
+      <Name>Convenience of nearby shopping and dining</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448083_448083.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>14</Rank>
+    </File>
+    <File id="448084" active="true">
+      <Type>photo</Type>
+      <Name>Play a round at Meadows Golf Club</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448084_448084.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>15</Rank>
+    </File>
+    <File id="448085" active="true">
+      <Type>photo</Type>
+      <Name>Visit our community at 1109 Hunters Glen Drive</Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_448085_448085.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>16</Rank>
+    </File>
+    <File id="458504" active="true">
+      <Type>photo</Type>
+      <Name>One of two available swimming pools </Name>
+      <Caption />
+      <Format>image/jpeg</Format>
+      <Src>http://www.huntersglenapthomes.com/public/media/c1617/images/c1617_458504_458504.jpg</Src>
+      <Width>800</Width>
+      <Height>600</Height>
+      <Rank>2</Rank>
+    </File>
+    <Promotional>Ask about our flexible leasing terms and pricing to meet your specific needs.</Promotional>
+  </Property>
+</PhysicalProperty>
